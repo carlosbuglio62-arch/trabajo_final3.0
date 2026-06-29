@@ -1,0 +1,5 @@
+pais,poblacion,superficie,continente
+Argentina,45000000,2780400,America
+Alemania,93000000,375000,Europa
+España,47000000,505000,Europa
+Japon,125000000,377500,Asia
